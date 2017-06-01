@@ -1,0 +1,2 @@
+# brightcove
+nodejs brightcove API
